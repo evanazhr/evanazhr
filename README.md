@@ -1,5 +1,5 @@
 <img src="./img/github-header-image.png">
-<br><h3 align="center">An aspiring fullstack developer from Indonesia</h3><br>
+<h3 align="start">An aspiring fullstack developer from Indonesia</h3><br>
 
 - 🌱 I’m currently learning **JavaScript**.
 
