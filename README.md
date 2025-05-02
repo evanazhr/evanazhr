@@ -1,5 +1,6 @@
-<img src="./img/github-header-image.png">
-<h3 align="start">An aspiring fullstack developer from Indonesia</h3><br>
+![evanazhr](./img/github-header-image.png)
+
+<h3 align="start">An aspiring Fullstack Developer from Indonesia</h3><br>
 
 - 🌱 I’m currently learning **JavaScript**.
 
