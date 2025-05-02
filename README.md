@@ -1,5 +1,4 @@
-![evanazhr](./img/github-header-image.png)
-
+# Hey, I'am Evan Azhar Hartana 👋
 <h3 align="start">An aspiring Fullstack Developer from Indonesia</h3><br>
 
 - 🌱 I’m currently learning **JavaScript**.
