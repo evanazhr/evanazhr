@@ -10,10 +10,3 @@
 #### 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ppT9uEzU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evanazhr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evanazhr@gmail.com)
-
-
-#### 📊 GitHub Stats:
-<center>
-
-![](https://github-readme-stats.vercel.app/api?username=Evanazhr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-</center>
