@@ -1,5 +1,5 @@
 <h1>Hi I'am Evan</h1><br>
-<h3 align="start">An aspiring Fullstack Developer from Indonesia</h3><br>
+<h3 align="start">Computer System Student | Future Fullstack Web Developer</h3><br>
 
 - 🌱 I’m currently learning **JavaScript**.
 
